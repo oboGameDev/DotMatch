@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1959eb8249224baeb11b1016171a77bb, type: 3}
+  m_Name: Goals
+  m_EditorClassIdentifier: 
+  Goals:
+  - Types: 0
+    Count: 
+  - Types: 3
+    Count: 120000000900000009000000
+  - Types: 3
+    Count: 120000001200000012000000
+  - Types: 3
+    Count: 120000001200000012000000
+  - Types: 4
+    Count: 09000000090000000900000009000000
+  - Types: 0
+    Count: 
+  - Types: 3
+    Count: 090000000900000009000000
+  - Types: 3
+    Count: 090000000900000012000000
+  - Types: 4
+    Count: 09000000090000001200000012000000
+  - Types: 4
+    Count: 09000000090000000900000012000000
+  - Types: 0
+    Count: 
+  - Types: 3
+    Count: 120000001200000012000000
+  - Types: 3
+    Count: 120000001200000012000000
+  - Types: 4
+    Count: 09000000120000001200000012000000
+  - Types: 4
+    Count: 09000000090000001200000012000000
+  - Types: 0
+    Count: 
+  - Types: 3
+    Count: 1b0000001e0000001b000000
+  - Types: 4
+    Count: 0b000000120000001400000015000000
+  - Types: 3
+    Count: 120000000c00000015000000
+  - Types: 4
+    Count: 12000000120000001b0000001b000000
+  - Types: 0
+    Count: 
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 4
+    Count: 1200000012000000140000001e000000
+  - Types: 3
+    Count: 1b000000140000001b000000
+  - Types: 3
+    Count: 120000001b0000001b000000
+  - Types: 0
+    Count: 
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 4
+    Count: 10000000110000001200000018000000
+  - Types: 3
+    Count: 1b0000001b00000018000000
+  - Types: 4
+    Count: 12000000120000002400000012000000
+  - Types: 0
+    Count: 
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000
+  - Types: 3
+    Count: 1b0000001b0000001b000000

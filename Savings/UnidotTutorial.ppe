@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>actual_level</key>
+    <integer>10</integer>
+    <key>Hammer_count</key>
+    <integer>1</integer>
+    <key>Hand_count</key>
+    <integer>1</integer>
+    <key>Haptic</key>
+    <integer>1</integer>
+    <key>keys</key>
+    <string>music,Haptic,sound,tutorial,losed_times</string>
+    <key>level</key>
+    <integer>10</integer>
+    <key>losed_times</key>
+    <integer>1</integer>
+    <key>money</key>
+    <integer>20</integer>
+    <key>music</key>
+    <integer>1</integer>
+    <key>Raduga_count</key>
+    <integer>100</integer>
+    <key>sound</key>
+    <integer>1</integer>
+    <key>tutorial</key>
+    <integer>6</integer>
+    <key>unity.player_session_count</key>
+    <string>1845</string>
+  </dict>
+</plist>
